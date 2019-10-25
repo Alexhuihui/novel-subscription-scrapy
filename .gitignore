@@ -1,6 +1,5 @@
-app/secure.py
-
 *.class
+configParser.conf
 
 #package file
 *.war
@@ -15,7 +14,7 @@ target/
 #eclipse ignore
 .settings/
 .project
-.classpatch
+.classpath
 
 #idea
 .idea/
